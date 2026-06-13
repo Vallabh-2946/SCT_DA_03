@@ -54,7 +54,7 @@ The dataset contains employee-related information such as:
 
 ### Dashboard Overview
 
-![Dashboard Overview](screenshots/Screenshot%202026-06-13%20132905.png)
+![Dashboard Overview](screenshots/Screenshot%202026-06-13%20132648.png)
 
 ### Attrition by Job Role
 
@@ -66,7 +66,7 @@ The dataset contains employee-related information such as:
 
 ### Interactive Dashboard Filters
 
-![Interactive Dashboard Filters](screenshots/Screenshot%202026-06-13%20132648.png)
+![Interactive Dashboard Filters](screenshots/Screenshot%202026-06-13%20132905.png)
 
 ## Key Insights
 
